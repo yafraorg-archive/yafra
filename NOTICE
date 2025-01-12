@@ -1,0 +1,22 @@
+   =========================================================================
+   ==  NOTICE file corresponding to the section 4 d of                    ==
+   ==  the Apache License, Version 2.0,                                   ==
+   ==  in this case for the yafra distribution.                           ==
+   =========================================================================
+
+This list is a common list of referenced software used by different yafra modules hosted on github.com/yafraorg.
+Each project can have its own NOTIC with specific references.
+
+The whole framework includes software developed by:
+
+The Apache Software Foundation projects (http://www.apache.org/).
+The Eclipse Project (http://www.eclipse.org/).
+The Mysql Project (http://www.mysql.org/).
+Java Software (http://www.java.com/).
+Drifty Ionic Framework (http://ionicframework.com/)
+Google (http://www.google.com/)
+GNU projects (http://www.gnu.org/)
+Twitter, Bootstrap (http://www.getbootstrap.com)
+jQuery project (http://jquery.com/)
+
+

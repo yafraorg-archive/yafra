@@ -1,0 +1,29 @@
+Light Yellow:
+background logo and text body: rgb 247 255 201 - #F7FFC9
+foreground #464646 or #000000 (dark gry or black)
+
+Highlight Color Grayyellow:
+background #D2D8AB
+
+Dark greengray
+background: rgb 98 119 58 - #62773A
+foreground: #ffffff (white)
+
+Default font ARIAL with size 12
+
+bootstrap http://twitter.github.com/bootstrap/customize.html :
+
+bodybackground: #F7FFC9
+textcolor: #464646
+linkColor: #333333
+brand-info: #62773a
+heroUnitBackground: #62773a
+navbarBackground: #d2d8ab
+navbarBackgroundHighlight: #62773a
+navbarText: #464646
+navbarLinkColor: #333333
+tableBackgroundAccent: #d2d8ab
+placeholderText: #464646
+inputBackground: #d2d8ab
+dropdownBackground: #d2d8ab
+dropdownLinkColor: #333333
